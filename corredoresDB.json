@@ -1,0 +1,34 @@
+{
+  "corredores": [
+    {
+      "id": 1,
+      "nombre": "Corredor_1",
+      "apellido": "",
+      "edad": 54
+    },
+    {
+      "id": 2,
+      "nombre": "Corredor_2",
+      "apellido": "",
+      "edad": 54
+    },
+    {
+      "id": 3,
+      "nombre": "Corredor_3",
+      "apellido": "",
+      "edad": 45
+    },
+    {
+      "id": 4,
+      "nombre": "Corredor_4",
+      "apellido": "",
+      "edad": 27
+    },
+    {
+      "id": 5,
+      "nombre": "Corredor_5",
+      "apellido": "",
+      "edad": 50
+    }
+  ]
+}
